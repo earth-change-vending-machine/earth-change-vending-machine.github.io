@@ -1,4 +1,4 @@
-https://earth-change-vending-machine.github.io/
+Live at https://earth-change-vending-machine.github.io/
 
 # Forked from scratch-gui
 
