@@ -1,10 +1,10 @@
-# scratch-gui
+https://earth-change-vending-machine.github.io/
 
-Scratch GUI is a set of React components that comprise the interface for creating and running Scratch 3.0 projects
-
-To open the current build in your browser on Github Pages:
+# Forked from scratch-gui
 
 https://scratchfoundation.github.io/scratch-gui/
+
+Original README follows:
 
 ## Installation
 
